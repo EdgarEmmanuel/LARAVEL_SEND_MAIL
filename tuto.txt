@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/33939393/failed-to-authenticate-on-smtp-server-error-using-gmail
+
+https://stackoverflow.com/questions/48341078/expected-response-code-250-but-got-code-530-with-message-530-5-7-1-authentic
